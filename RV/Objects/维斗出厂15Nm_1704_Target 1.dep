@@ -1,0 +1,51 @@
+Dependencies for Project 'Î¬¶·³ö³§15Nm_1704', Target 'Target 1': (DO NOT MODIFY !)
+F (..\CS5460.C)(0x5B5806B7)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IE:\Keil_v5\ARM\RV31\INC-IE:\Keil_v5\ARM\CMSIS\Include-IE:\Keil_v5\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="521"-o .\objects\cs5460.o --omf_browse .\objects\cs5460.crf --depend .\objects\cs5460.d)
+I (..\config.h)(0x5B3DDAFA)
+I (..\lpc1700.h)(0x4FFBA8D2)
+F (..\display.c)(0x5B5FEEE0)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IE:\Keil_v5\ARM\RV31\INC-IE:\Keil_v5\ARM\CMSIS\Include-IE:\Keil_v5\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="521"-o .\objects\display.o --omf_browse .\objects\display.crf --depend .\objects\display.d)
+I (..\config.h)(0x5B3DDAFA)
+I (..\lpc1700.h)(0x4FFBA8D2)
+I (..\main.h)(0x5B5FEE7D)
+I (E:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\float.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\math.h)(0x574E3E26)
+I (..\HAL.h)(0x5B51729A)
+I (..\Lpc1754_a_lib.h)(0x58D8B766)
+F (..\HAL.C)(0x5B559737)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IE:\Keil_v5\ARM\RV31\INC-IE:\Keil_v5\ARM\CMSIS\Include-IE:\Keil_v5\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="521"-o .\objects\hal.o --omf_browse .\objects\hal.crf --depend .\objects\hal.d)
+I (..\main.h)(0x5B5FEE7D)
+I (E:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\float.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\math.h)(0x574E3E26)
+I (..\config.h)(0x5B3DDAFA)
+I (..\lpc1700.h)(0x4FFBA8D2)
+I (..\HAL.h)(0x5B51729A)
+I (..\Lpc1754_a_lib.h)(0x58D8B766)
+F (..\main.c)(0x5B74E0E6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IE:\Keil_v5\ARM\RV31\INC-IE:\Keil_v5\ARM\CMSIS\Include-IE:\Keil_v5\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="521"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\MAIN.h)(0x5B5FEE7D)
+I (E:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\float.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\math.h)(0x574E3E26)
+I (..\config.h)(0x5B3DDAFA)
+I (..\lpc1700.h)(0x4FFBA8D2)
+I (..\HAL.h)(0x5B51729A)
+I (..\Lpc1754_a_lib.h)(0x58D8B766)
+F (..\Setting.c)(0x5B5FEEA3)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IE:\Keil_v5\ARM\RV31\INC-IE:\Keil_v5\ARM\CMSIS\Include-IE:\Keil_v5\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="521"-o .\objects\setting.o --omf_browse .\objects\setting.crf --depend .\objects\setting.d)
+I (..\config.h)(0x5B3DDAFA)
+I (..\lpc1700.h)(0x4FFBA8D2)
+I (..\Main.h)(0x5B5FEE7D)
+I (E:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\float.h)(0x574E3E26)
+I (E:\Keil_v5\ARM\ARMCC\include\math.h)(0x574E3E26)
+I (..\HAL.h)(0x5B51729A)
+I (..\Lpc1754_a_lib.h)(0x58D8B766)
+F (..\startup_LPC17xx.s)(0x5B0C9CD0)(--cpu Cortex-M3 -g --apcs=interwork -IE:\Keil_v5\ARM\RV31\INC-IE:\Keil_v5\ARM\CMSIS\Include-IE:\Keil_v5\ARM\Inc\NXP\LPC17xx--pd "__UVISION_VERSION SETA 521"--list .\listings\startup_lpc17xx.lst --xref -o .\objects\startup_lpc17xx.o --depend .\objects\startup_lpc17xx.d)
+F (..\LPC1754_A_LIB.lib)(0x58D8B560)()
+F (..\Zk.S)(0x5B0BAB90)(--cpu Cortex-M3 -g --apcs=interwork -IE:\Keil_v5\ARM\RV31\INC-IE:\Keil_v5\ARM\CMSIS\Include-IE:\Keil_v5\ARM\Inc\NXP\LPC17xx--pd "__UVISION_VERSION SETA 521"--list .\listings\zk.lst --xref -o .\objects\zk.o --depend .\objects\zk.d)

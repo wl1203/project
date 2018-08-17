@@ -1,0 +1,11 @@
+.\objects\display.o: ..\display.c
+.\objects\display.o: ..\config.h
+.\objects\display.o: ..\lpc1700.h
+.\objects\display.o: ..\main.h
+.\objects\display.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\display.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\display.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\display.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\display.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\display.o: ..\HAL.h
+.\objects\display.o: ..\Lpc1754_a_lib.h

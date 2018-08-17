@@ -1,0 +1,11 @@
+.\objects\hal.o: ..\HAL.C
+.\objects\hal.o: ..\main.h
+.\objects\hal.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\hal.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\hal.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\hal.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\hal.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\hal.o: ..\config.h
+.\objects\hal.o: ..\lpc1700.h
+.\objects\hal.o: ..\HAL.h
+.\objects\hal.o: ..\Lpc1754_a_lib.h

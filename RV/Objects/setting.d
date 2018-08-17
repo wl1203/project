@@ -1,0 +1,11 @@
+.\objects\setting.o: ..\Setting.c
+.\objects\setting.o: ..\config.h
+.\objects\setting.o: ..\lpc1700.h
+.\objects\setting.o: ..\Main.h
+.\objects\setting.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\setting.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\setting.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\setting.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\setting.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\setting.o: ..\HAL.h
+.\objects\setting.o: ..\Lpc1754_a_lib.h
